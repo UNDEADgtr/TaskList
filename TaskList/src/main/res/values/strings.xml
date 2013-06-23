@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_task">ListTaskActivity</string>
+
+    <string name="main_taskList">Task List</string>
+    <string name="main_another1">Another1</string>
+    <string name="main_another2">Another2</string>
+
+    <string-array name="tasklist_mas">
+        <item >Овен</item>
+        <item >Телец</item>
+        <item >Близнецы</item>
+        <item >Рак</item>
+        <item >Lion</item>
+    </string-array>
+
+</resources>
